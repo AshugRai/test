@@ -1,3 +1,3 @@
 <?php
-	echo "hello there. test file hai";
+	echo "Hello World!";
 ?>
